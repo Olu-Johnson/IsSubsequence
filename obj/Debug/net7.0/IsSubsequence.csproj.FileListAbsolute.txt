@@ -1,0 +1,14 @@
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/bin/Debug/net7.0/IsSubsequence
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/bin/Debug/net7.0/IsSubsequence.deps.json
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/bin/Debug/net7.0/IsSubsequence.runtimeconfig.json
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/bin/Debug/net7.0/IsSubsequence.dll
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/bin/Debug/net7.0/IsSubsequence.pdb
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/obj/Debug/net7.0/IsSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/obj/Debug/net7.0/IsSubsequence.AssemblyInfoInputs.cache
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/obj/Debug/net7.0/IsSubsequence.AssemblyInfo.cs
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/obj/Debug/net7.0/IsSubsequence.csproj.CoreCompileInputs.cache
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/obj/Debug/net7.0/IsSubsequence.dll
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/obj/Debug/net7.0/refint/IsSubsequence.dll
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/obj/Debug/net7.0/IsSubsequence.pdb
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/obj/Debug/net7.0/IsSubsequence.genruntimeconfig.cache
+/Users/olu-johnsonoluwatosin/LeetCode/IsSubsequence/obj/Debug/net7.0/ref/IsSubsequence.dll
